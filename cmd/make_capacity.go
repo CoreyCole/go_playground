@@ -16,7 +16,7 @@ func prn(slice *[]byte, name string) {
 	fmt.Printf("\n")
 }
 
-/**
+/** (go 1.22)
 Lenght of slice [ss - original] = 250
     Capacity of [ss - original] = 250
 
